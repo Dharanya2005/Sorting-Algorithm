@@ -62,17 +62,16 @@ arr= eval(input())
 print(insertion_sort(arr))
 
 ```
-
 ## Output:
-
 i)
+
+
 ![image](https://github.com/Dharanya2005/Sorting-Algorithm/assets/145742468/60bc6765-2073-406d-825e-b5da11c1f57e)
 
-
 ii)
+
+
 ![image](https://github.com/Dharanya2005/Sorting-Algorithm/assets/145742468/6a6e60ec-6eba-489f-b961-05a74e4f67c4)
-
-
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
